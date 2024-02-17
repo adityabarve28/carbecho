@@ -1,0 +1,19 @@
+*{
+    text-decoration: none;
+}
+.body{
+    background-color: #F4F4F4;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+#nav{
+    background-color: #1E2852 !important;
+}
+#navlink{
+    color: #0c0cf7 !important;
+}
